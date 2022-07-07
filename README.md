@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian G. Gofiar</h1>
-- 🌱 I’m currently learning DL with Tensorflow and Data Mining
 
-<p>&nbsp;
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en" alt="cristiangofiar" />
-</p>
+<img src="https://user-images.githubusercontent.com/62672531/177877111-f67d054a-a173-4018-9882-d58630113796.gif" width="1000" height="500"/>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en" alt="cristiangofiar" />
