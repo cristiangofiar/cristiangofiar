@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian G. Gofiar</h1>
-- 🌱 I’m currently learning **DL with Tensorflow and Data Mining**
-
-- 📫 How to reach me **cristiangofiar@gmail.com**
+- 🌱 I’m currently learning DL with Tensorflow and Data Mining
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en" alt="cristiangofiar" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="cristiangofiar" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en&layout=compact" alt="cristiangofiar" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
