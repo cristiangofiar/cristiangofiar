@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Cristian G. Gofiar</h1>
 
-<img src="https://user-images.githubusercontent.com/62672531/177882225-ad457f9b-a838-45b1-aab5-8476d7dcf901.gif" width="1000" height="580"/>
+<img src="https://user-images.githubusercontent.com/62672531/177882225-ad457f9b-a838-45b1-aab5-8476d7dcf901.gif" width="900" height="500"/>
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en" alt="cristiangofiar" />
