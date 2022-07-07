@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristian G. Gofiar</h1>
+<h1 align="center">Hi, I'm Cristian G. Gofiar</h1>
 
 <img src="https://user-images.githubusercontent.com/62672531/177882225-ad457f9b-a838-45b1-aab5-8476d7dcf901.gif" width="1000" height="580"/>
 
@@ -6,12 +6,8 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en" alt="cristiangofiar" />
 </p>
 
-<br></br>
-<br></br>
-<br></br>
-
-<h3 align="right">Languages and Tools:</h3>
-<p align="right"> 
+<h3 align="center">I currently use:</h3>
+<p align="center"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
@@ -38,9 +34,11 @@
     </a> 
 </p>
 
+<br></br>
+<br></br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://linkedin.com/in/cristiangofiar" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiangofiar" height="30" width="40" />
     </a>
