@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Cristian G. Gofiar</h1>
+<h1 align="center">Hi, I'm Cristian Gofiar</h1>
 
 ![Setup night](https://user-images.githubusercontent.com/62672531/224849946-0eba48fa-e9de-462d-811e-abfe79b85eca.jpg)
 
