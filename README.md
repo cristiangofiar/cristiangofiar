@@ -1,52 +1,63 @@
-<h1 align="center">Hi, I'm Cristian Gofiar</h1>
+<div align="center">
 
-![Setup night](https://user-images.githubusercontent.com/62672531/224849946-0eba48fa-e9de-462d-811e-abfe79b85eca.jpg)
+<img src="./assets/hero.svg" width="100%" alt="Cristian Gofiar — AI Engineer | AI systems, cloud infrastructure and platform engineering" />
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristiangofiar&show_icons=true&theme=dark&title_color=8f1fff&text_color=c9c9c9&bg_color=404040&hide_border=true&locale=en" alt="cristiangofiar" />
-</p>
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1000&color=8B9CF8&center=true&vCenter=true&width=760&height=42&lines=AI+Engineering+%26+Agentic+Systems;Cloud+Infrastructure+%26+GitOps;Decision+Models+%26+System+Design;Observability+%26+Production+Reliability" alt="AI Engineering, cloud infrastructure, decision models and observability" /></a>
 
-<h3 align="center">I currently use:</h3>
-<p align="center"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-    </a> 
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-    </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-    </a> 
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-    </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-</p>
+<a href="https://www.linkedin.com/in/cristiangofiar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/cristiangofiar?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+<a href="https://www.kaggle.com/cristiangofiar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 
-<br>
-<br>
-<br>
+</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://linkedin.com/in/cristiangofiar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiangofiar" height="30" width="40" />
-    </a>
-    <a href="https://kaggle.com/cristiangofiar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cristiangofiar" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/cristiangofiar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cristiangofiar" height="30" width="40" />
-    </a>
-</p>
+### About
+
+I'm a **Systems Engineer working in AI engineering**, based in Spain. I build and integrate AI-powered software, with an emphasis on **system architecture, cloud infrastructure, and production operations**.
+
+My work spans **agentic workflows, retrieval systems, decision-oriented AI components, observability, and cloud-native delivery**. I care about maintainable designs, reliable behavior, and the trade-offs between quality, latency, and cost.
+
+### Tech stack
+
+<div align="center">
+
+**AI engineering & observability**
+
+`LangGraph` · `LangChain` · `Langfuse` · `LLM APIs` · `Decision Models` · `RAG` · `Evaluation`
+
+<a href="https://langfuse.com/"><img src="https://img.shields.io/badge/Langfuse-Observability-161B22?style=flat-square" alt="Langfuse" /></a>
+
+**Cloud & infrastructure**
+
+<img src="https://skillicons.dev/icons?i=terraform,kubernetes,azure,aws,docker,githubactions&theme=dark" alt="Terraform, Kubernetes, Azure, AWS, Docker and GitHub Actions" />
+
+`Infrastructure as Code` · `GitOps` · `CI/CD` · `Cloud-native systems`
+
+**Backend, data & search**
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mongodb,elasticsearch,git&theme=dark" alt="Python, PostgreSQL, MongoDB, Elasticsearch and Git" />
+
+`APIs` · `SQL` · `Pinecone` · `Vector Search` · `Distributed Services`
+
+</div>
+
+### Areas of work
+
+| Area | Engineering focus |
+| :--- | :--- |
+| **AI systems** | Tool-using agents, orchestration, retrieval pipelines, decision models and model integration. |
+| **Architecture** | Design patterns, component boundaries, maintainability and system evolution. |
+| **Cloud & platform** | Cloud services, Kubernetes, Terraform, GitOps and delivery workflows. |
+| **Observability** | Tracing, evaluation, diagnostics, performance, latency and cost. |
+| **Data & search** | PostgreSQL, MongoDB, Elasticsearch, vector search and retrieval quality. |
+
+### GitHub activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cristiangofiar/cristiangofiar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cristiangofiar/cristiangofiar/output/github-snake.svg" />
+  <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/cristiangofiar/cristiangofiar/output/github-snake.svg" width="100%" />
+</picture>
+
+</div>
